@@ -1,0 +1,37 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.container{
+  
+  width: 300px;
+  height: 200px;
+  background-color: rgb(128, 8, 202);
+  text-align: center;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  margin-top: 100px;
+  border-radius: 10px;
+ 
+  padding: 10px;
+
+}
+h2{
+  margin-top: 50px;
+  font-weight: 900;
+ 
+  
+}
+button{
+  background-color: rgb(248, 21, 21);
+  padding: 8px 16px;
+  font-weight: 900;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
